@@ -1,8 +1,8 @@
-# Development Containers Website
+# Developers Containers Site & Terminals
 
-This repo holds the website for the [Development Containers Specification](https://github.com/devcontainers/spec).
+This repo holds the website for the [Inclusive Developers Hub](https://github.com/ecampuslearning/spec).
 
-You may view the site at [containers.dev](https://containers.dev).
+You may view the site at [containers.dev](https://developer.igecloud.com).
 
 ## Building
 
