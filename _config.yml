@@ -25,7 +25,7 @@ exclude:
   - README.md
   - resources
 
-timezone: Europe/Zurich
+timezone: Europe/London
 
 defaults:
 - scope:
