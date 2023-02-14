@@ -1,8 +1,8 @@
-# Developers Containers Site & Terminals
+#IGE CLOUD Workspace configuration
 
 This repo holds the website for the [Inclusive Developers Hub](https://github.com/ecampuslearning/spec).
 
-You may view the site at [containers.dev](https://developer.igecloud.com).
+You may view the site at [igecloud.dev](https://connections.igecloud.dev).
 
 ## Building
 
