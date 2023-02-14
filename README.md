@@ -1,12 +1,11 @@
-#IGE CLOUD Workspace configuration
+#IGE CONNECTIONS Workspace configuration
 
-This repo holds the website for the [Inclusive Developers Hub](https://github.com/ecampuslearning/spec).
+This repo holds the config for the [Inclusive Workspace & Dev Resource Hub](https://github.com/igeclouds/spec). The origin is an adoption from the microsoft vscode dev container specification
 
 You may view the site at [igecloud.dev](https://connections.igecloud.dev).
 
 ## Building
-
-If you'd like to build and preview the site yourself, we make it as smooth as possible through a dev container in this repo!
+With the group permission, we have decided to make this public for individual learning and resource to @ecampuslearning
 
 ### Dev container
 
