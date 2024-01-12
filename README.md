@@ -1,6 +1,6 @@
 #IGE Creative Cloud Workspace configuration
 
-This repo holds the config for the [Inclusive Workspace & Dev Resource Hub](https://github.com/igeclouds/spec). The origin is an adoption from the microsoft vscode dev container specification
+This repo holds the config for the [Inclusive Workspace & Dev Resource Hub](https://github.com/mysmartspaces). The origin is an adoption from the microsoft vscode dev container specification
 
 You may view the site at [igecloud.dev](https://connections.igecloud.dev).
 
