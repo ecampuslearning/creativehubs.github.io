@@ -1,0 +1,7 @@
+{
+    "files.autoGuessEncoding": true,
+    "scm.alwaysShowActions": true,
+    "scm.alwaysShowRepositories": true,
+    "git.alwaysSignOff": true,
+    "git.alwaysShowStagedChangesResourceGroup": true
+}
